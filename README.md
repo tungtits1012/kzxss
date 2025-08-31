@@ -41,5 +41,5 @@ cat urls.txt | kzxss
 ```
 # Combine with other tools:
 ```
-echo example.com | hakrawler | kzxss
+echo https://example.com | hakrawler | kzxss
 ```
